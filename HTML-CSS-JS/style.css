@@ -1,0 +1,21 @@
+.form-table{
+    margin-bottom: 3px;
+}
+#style{
+    background-color: rgba(152, 221, 248, 0.301);
+}
+/* .custom-form{
+    background-color:rgb(119, 223, 119); */
+
+.custom-btn{
+       text-align:  center;
+}
+.form{
+    margin-bottom: 3px;
+}
+.error{
+    color: red;
+}
+.rg_form{
+    text-align: center;
+}
