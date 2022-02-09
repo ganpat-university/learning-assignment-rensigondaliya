@@ -1,0 +1,15 @@
+C:\Users\gonda\source\repos\ConsoleApp1\obj\Debug\net6.0\assignment1.csproj.AssemblyReference.cache
+C:\Users\gonda\source\repos\ConsoleApp1\obj\Debug\net6.0\assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonda\source\repos\ConsoleApp1\obj\Debug\net6.0\assignment1.AssemblyInfoInputs.cache
+C:\Users\gonda\source\repos\ConsoleApp1\obj\Debug\net6.0\assignment1.AssemblyInfo.cs
+C:\Users\gonda\source\repos\ConsoleApp1\obj\Debug\net6.0\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\gonda\source\repos\ConsoleApp1\bin\Debug\net6.0\assignment1.exe
+C:\Users\gonda\source\repos\ConsoleApp1\bin\Debug\net6.0\assignment1.deps.json
+C:\Users\gonda\source\repos\ConsoleApp1\bin\Debug\net6.0\assignment1.runtimeconfig.json
+C:\Users\gonda\source\repos\ConsoleApp1\bin\Debug\net6.0\assignment1.dll
+C:\Users\gonda\source\repos\ConsoleApp1\bin\Debug\net6.0\ref\assignment1.dll
+C:\Users\gonda\source\repos\ConsoleApp1\bin\Debug\net6.0\assignment1.pdb
+C:\Users\gonda\source\repos\ConsoleApp1\obj\Debug\net6.0\assignment1.dll
+C:\Users\gonda\source\repos\ConsoleApp1\obj\Debug\net6.0\ref\assignment1.dll
+C:\Users\gonda\source\repos\ConsoleApp1\obj\Debug\net6.0\assignment1.pdb
+C:\Users\gonda\source\repos\ConsoleApp1\obj\Debug\net6.0\assignment1.genruntimeconfig.cache

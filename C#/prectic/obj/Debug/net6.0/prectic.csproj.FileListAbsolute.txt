@@ -1,0 +1,15 @@
+C:\Users\gonda\source\repos\prectic\obj\Debug\net6.0\prectic.csproj.AssemblyReference.cache
+C:\Users\gonda\source\repos\prectic\obj\Debug\net6.0\prectic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonda\source\repos\prectic\obj\Debug\net6.0\prectic.AssemblyInfoInputs.cache
+C:\Users\gonda\source\repos\prectic\obj\Debug\net6.0\prectic.AssemblyInfo.cs
+C:\Users\gonda\source\repos\prectic\obj\Debug\net6.0\prectic.csproj.CoreCompileInputs.cache
+C:\Users\gonda\source\repos\prectic\bin\Debug\net6.0\prectic.exe
+C:\Users\gonda\source\repos\prectic\bin\Debug\net6.0\prectic.deps.json
+C:\Users\gonda\source\repos\prectic\bin\Debug\net6.0\prectic.runtimeconfig.json
+C:\Users\gonda\source\repos\prectic\bin\Debug\net6.0\prectic.dll
+C:\Users\gonda\source\repos\prectic\bin\Debug\net6.0\ref\prectic.dll
+C:\Users\gonda\source\repos\prectic\bin\Debug\net6.0\prectic.pdb
+C:\Users\gonda\source\repos\prectic\obj\Debug\net6.0\prectic.dll
+C:\Users\gonda\source\repos\prectic\obj\Debug\net6.0\ref\prectic.dll
+C:\Users\gonda\source\repos\prectic\obj\Debug\net6.0\prectic.pdb
+C:\Users\gonda\source\repos\prectic\obj\Debug\net6.0\prectic.genruntimeconfig.cache

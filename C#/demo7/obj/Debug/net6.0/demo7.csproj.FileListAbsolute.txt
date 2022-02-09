@@ -1,0 +1,14 @@
+C:\Users\gonda\source\repos\demo7\bin\Debug\net6.0\demo7.exe
+C:\Users\gonda\source\repos\demo7\bin\Debug\net6.0\demo7.deps.json
+C:\Users\gonda\source\repos\demo7\bin\Debug\net6.0\demo7.runtimeconfig.json
+C:\Users\gonda\source\repos\demo7\bin\Debug\net6.0\demo7.dll
+C:\Users\gonda\source\repos\demo7\bin\Debug\net6.0\ref\demo7.dll
+C:\Users\gonda\source\repos\demo7\bin\Debug\net6.0\demo7.pdb
+C:\Users\gonda\source\repos\demo7\obj\Debug\net6.0\demo7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonda\source\repos\demo7\obj\Debug\net6.0\demo7.AssemblyInfoInputs.cache
+C:\Users\gonda\source\repos\demo7\obj\Debug\net6.0\demo7.AssemblyInfo.cs
+C:\Users\gonda\source\repos\demo7\obj\Debug\net6.0\demo7.csproj.CoreCompileInputs.cache
+C:\Users\gonda\source\repos\demo7\obj\Debug\net6.0\demo7.dll
+C:\Users\gonda\source\repos\demo7\obj\Debug\net6.0\ref\demo7.dll
+C:\Users\gonda\source\repos\demo7\obj\Debug\net6.0\demo7.pdb
+C:\Users\gonda\source\repos\demo7\obj\Debug\net6.0\demo7.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+C:\Users\gonda\source\repos\Demo9\obj\Debug\net6.0\Demo9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonda\source\repos\Demo9\obj\Debug\net6.0\Demo9.AssemblyInfoInputs.cache
+C:\Users\gonda\source\repos\Demo9\obj\Debug\net6.0\Demo9.AssemblyInfo.cs
+C:\Users\gonda\source\repos\Demo9\obj\Debug\net6.0\Demo9.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\gonda\source\repos\assignment02\bin\Debug\net6.0\assignment02.exe
+C:\Users\gonda\source\repos\assignment02\bin\Debug\net6.0\assignment02.deps.json
+C:\Users\gonda\source\repos\assignment02\bin\Debug\net6.0\assignment02.runtimeconfig.json
+C:\Users\gonda\source\repos\assignment02\bin\Debug\net6.0\assignment02.dll
+C:\Users\gonda\source\repos\assignment02\bin\Debug\net6.0\ref\assignment02.dll
+C:\Users\gonda\source\repos\assignment02\bin\Debug\net6.0\assignment02.pdb
+C:\Users\gonda\source\repos\assignment02\obj\Debug\net6.0\assignment02.csproj.AssemblyReference.cache
+C:\Users\gonda\source\repos\assignment02\obj\Debug\net6.0\assignment02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonda\source\repos\assignment02\obj\Debug\net6.0\assignment02.AssemblyInfoInputs.cache
+C:\Users\gonda\source\repos\assignment02\obj\Debug\net6.0\assignment02.AssemblyInfo.cs
+C:\Users\gonda\source\repos\assignment02\obj\Debug\net6.0\assignment02.csproj.CoreCompileInputs.cache
+C:\Users\gonda\source\repos\assignment02\obj\Debug\net6.0\assignment02.dll
+C:\Users\gonda\source\repos\assignment02\obj\Debug\net6.0\ref\assignment02.dll
+C:\Users\gonda\source\repos\assignment02\obj\Debug\net6.0\assignment02.pdb
+C:\Users\gonda\source\repos\assignment02\obj\Debug\net6.0\assignment02.genruntimeconfig.cache
