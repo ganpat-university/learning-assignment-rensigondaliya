@@ -1,0 +1,16 @@
+C:\Users\gonda\source\repos\Demo24_Thread\obj\Debug\net5.0\Demo24_Thread.csproj.AssemblyReference.cache
+C:\Users\gonda\source\repos\Demo24_Thread\obj\Debug\net5.0\Demo24_Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonda\source\repos\Demo24_Thread\obj\Debug\net5.0\Demo24_Thread.AssemblyInfoInputs.cache
+C:\Users\gonda\source\repos\Demo24_Thread\obj\Debug\net5.0\Demo24_Thread.AssemblyInfo.cs
+C:\Users\gonda\source\repos\Demo24_Thread\obj\Debug\net5.0\Demo24_Thread.csproj.CoreCompileInputs.cache
+C:\Users\gonda\source\repos\Demo24_Thread\bin\Debug\net5.0\Demo24_Thread.exe
+C:\Users\gonda\source\repos\Demo24_Thread\bin\Debug\net5.0\Demo24_Thread.deps.json
+C:\Users\gonda\source\repos\Demo24_Thread\bin\Debug\net5.0\Demo24_Thread.runtimeconfig.json
+C:\Users\gonda\source\repos\Demo24_Thread\bin\Debug\net5.0\Demo24_Thread.runtimeconfig.dev.json
+C:\Users\gonda\source\repos\Demo24_Thread\bin\Debug\net5.0\Demo24_Thread.dll
+C:\Users\gonda\source\repos\Demo24_Thread\bin\Debug\net5.0\ref\Demo24_Thread.dll
+C:\Users\gonda\source\repos\Demo24_Thread\bin\Debug\net5.0\Demo24_Thread.pdb
+C:\Users\gonda\source\repos\Demo24_Thread\obj\Debug\net5.0\Demo24_Thread.dll
+C:\Users\gonda\source\repos\Demo24_Thread\obj\Debug\net5.0\ref\Demo24_Thread.dll
+C:\Users\gonda\source\repos\Demo24_Thread\obj\Debug\net5.0\Demo24_Thread.pdb
+C:\Users\gonda\source\repos\Demo24_Thread\obj\Debug\net5.0\Demo24_Thread.genruntimeconfig.cache
