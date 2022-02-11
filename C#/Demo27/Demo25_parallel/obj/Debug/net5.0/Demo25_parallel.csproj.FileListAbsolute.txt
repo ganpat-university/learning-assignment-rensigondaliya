@@ -1,0 +1,16 @@
+C:\Users\gonda\source\repos\Demo25_parallel\bin\Debug\net5.0\Demo25_parallel.exe
+C:\Users\gonda\source\repos\Demo25_parallel\bin\Debug\net5.0\Demo25_parallel.deps.json
+C:\Users\gonda\source\repos\Demo25_parallel\bin\Debug\net5.0\Demo25_parallel.runtimeconfig.json
+C:\Users\gonda\source\repos\Demo25_parallel\bin\Debug\net5.0\Demo25_parallel.runtimeconfig.dev.json
+C:\Users\gonda\source\repos\Demo25_parallel\bin\Debug\net5.0\Demo25_parallel.dll
+C:\Users\gonda\source\repos\Demo25_parallel\bin\Debug\net5.0\ref\Demo25_parallel.dll
+C:\Users\gonda\source\repos\Demo25_parallel\bin\Debug\net5.0\Demo25_parallel.pdb
+C:\Users\gonda\source\repos\Demo25_parallel\obj\Debug\net5.0\Demo25_parallel.csproj.AssemblyReference.cache
+C:\Users\gonda\source\repos\Demo25_parallel\obj\Debug\net5.0\Demo25_parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonda\source\repos\Demo25_parallel\obj\Debug\net5.0\Demo25_parallel.AssemblyInfoInputs.cache
+C:\Users\gonda\source\repos\Demo25_parallel\obj\Debug\net5.0\Demo25_parallel.AssemblyInfo.cs
+C:\Users\gonda\source\repos\Demo25_parallel\obj\Debug\net5.0\Demo25_parallel.csproj.CoreCompileInputs.cache
+C:\Users\gonda\source\repos\Demo25_parallel\obj\Debug\net5.0\Demo25_parallel.dll
+C:\Users\gonda\source\repos\Demo25_parallel\obj\Debug\net5.0\ref\Demo25_parallel.dll
+C:\Users\gonda\source\repos\Demo25_parallel\obj\Debug\net5.0\Demo25_parallel.pdb
+C:\Users\gonda\source\repos\Demo25_parallel\obj\Debug\net5.0\Demo25_parallel.genruntimeconfig.cache
